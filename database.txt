@@ -1,0 +1,7 @@
+email: mahmudjanov.gafur@gmail.com,
+        subject: Greeting from Python developer,
+        message: Hello dear friends
+email: mahmudjanov.gafur@gmail.com,
+        subject: Greeting from Python developer,
+        message: This is second attempt 
+
